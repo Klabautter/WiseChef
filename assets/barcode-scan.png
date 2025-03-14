@@ -1,0 +1,4 @@
+// Dies ist ein Platzhalter für ein Barcode-Scan-Bild.
+// Bitte füge hier ein Bild mit dem Namen "barcode-scan.png" hinzu.
+// Du kannst ein Barcode-Icon von einer freien Ressource wie flaticon.com oder ähnlichen Seiten herunterladen.
+// Alternativ kannst du auch ein anderes Bild aus deinem Projekt verwenden und den Pfad in ScannerScreen.tsx anpassen. 
